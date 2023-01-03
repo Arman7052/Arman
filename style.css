@@ -1,0 +1,41 @@
+html { 
+    background: url(asd.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+p{
+color: rgb(22, 206, 226);
+
+text-align: center;
+}
+span{
+color: red;
+}
+li{
+color: rgb(99, 125, 99);
+text-align: center;
+list-style-type: none;
+
+}
+h1,h3,h5 {
+text-align: center;
+}
+h3,h5{
+    color: lightgrey;
+}
+ul{
+text-align: center;
+list-style: circle;
+}
+h1{
+    color: gold;
+    text-decoration: underline wavy rgb(166, 5, 136);
+}
+form{
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
